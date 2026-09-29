@@ -1,1 +1,11 @@
-BLANK
+{
+  "games": [
+    {
+      "name": "Controller Checker",
+      "slug": "controller-checker",
+      "version": "1.0.0",
+      "description": "A controller testing game.",
+      "download": "https://github.com/coltonmurdock2012-art/ERRORPort/releases/download/GAME/Controller-checker.zip"
+    }
+  ]
+}
