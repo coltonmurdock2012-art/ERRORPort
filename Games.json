@@ -7,5 +7,13 @@
       "description": "A controller testing game.",
       "download": "https://github.com/coltonmurdock2012-art/ERRORPort/releases/download/GAME/Controller-checker.zip"
     }
+  
+    {
+      "name": "testfile",
+      "slug": "testfile-testfile",
+      "version": "testfile",
+      "description": "testfile.",
+      "download": "testfile"
+    }
   ]
 }
