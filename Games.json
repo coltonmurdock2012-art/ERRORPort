@@ -1,11 +1,18 @@
 {
-  "games": [
-    {
-      "name": "Controller Checker edit test fast?, no cheese..",
-      "slug": "test-dev",
-      "version": "1.0.0 cheese",
-      "description": "A controller testing game, hi im bob.",
-      "download": "https://github.com/coltonmurdock2012-art/ERRORPort/releases/download/GAME/Controller-checker.zip"
-    }
-  ]
+    "games": [
+        {
+            "name": "Controller Checker",
+            "slug": "controller-checker",
+            "version": "1.0.0",
+            "description": "A controller testing game.",
+            "download": "https://github.com/coltonmurdock2012-art/ERRORPort/releases/download/GAME/Controller-checker.zip"
+        },
+        {
+            "name": "My Second Game",
+            "slug": "my-second-game",
+            "version": "1.0.0",
+            "description": "This is my second game.",
+            "download": "https://example.com/game.zip"
+        }
+    ]
 }
