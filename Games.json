@@ -6,6 +6,7 @@
             "version": "1.0.0",
             "description": "A controller testing game.",
             "download": "https://github.com/coltonmurdock2012-art/ERRORPort/releases/download/GAME/Controller-checker.zip"
+            "featured": true
         },
         {
             "name": "My Second Game",
@@ -13,6 +14,7 @@
             "version": "1.0.0",
             "description": "This is my second game.",
             "download": "https://example.com/game.zip"
+            "featured": false
         }
     ]
 }
