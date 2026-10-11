@@ -7,6 +7,7 @@
             "description": "A controller testing game.",
             "download": "https://github.com/coltonmurdock2012-art/ERRORPort/releases/download/GAME/Controller-checker.zip"
             "featured": false
+            "cover": "https://raw.githubusercontent.com/coltonmurdock2012-art/ERRORPort/refs/heads/main/covers/controller-checker.jpg"
         },
         {
             "name": "My Second Game",
@@ -15,6 +16,7 @@
             "description": "This is my second game.",
             "download": "https://example.com/game.zip"
             "featured": true
+            "cover": "https://raw.githubusercontent.com/coltonmurdock2012-art/ERRORPort/refs/heads/main/covers/controller-checker.jpg"
         }
     ]
 }
