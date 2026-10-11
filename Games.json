@@ -2,7 +2,7 @@
 {
   "games": [
     {
-      "name": "Controller Checker",
+      "name": "Controller Checker bob",
       "slug": "controller-checker",
       "version": "1.0.0",
       "description": "A controller testing game.",
