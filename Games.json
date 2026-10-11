@@ -13,11 +13,11 @@
     {
       "name": "My Second Game",
       "slug": "my-second-game",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "description": "This is my second game.",
       "download": "https://example.com/game.zip",
       "featured": false,
-      "cover": "https://raw.githubusercontent.com/coltonmurdock2012-art/ERRORPort/refs/heads/main/covers/controller-checker.jpg"
+      "cover": "https://raw.githubusercontent.com/coltonmurdock2012-art/ERRORPort/refs/heads/main/covers/my-second-game.jpg"
     }
   ]
 }
