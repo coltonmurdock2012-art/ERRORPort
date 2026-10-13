@@ -19,5 +19,41 @@
       "featured": false,
       "cover": "https://raw.githubusercontent.com/coltonmurdock2012-art/ERRORPort/refs/heads/main/covers/my-second-game.jpg"
     }
+    {
+      "name": "My third Game",
+      "slug": "my-third-game",
+      "version": "1.0.0",
+      "description": "This is my third game.",
+      "download": "https://example.com/game.zip",
+      "featured": false,
+      "cover": "https://raw.githubusercontent.com/coltonmurdock2012-art/ERRORPort/refs/heads/main/covers/my-second-game.jpg"
+    }
+    {
+      "name": "My 4 Game",
+      "slug": "my-4-game",
+      "version": "1.0.0",
+      "description": "This is my 4 game.",
+      "download": "https://example.com/game.zip",
+      "featured": false,
+      "cover": "https://raw.githubusercontent.com/coltonmurdock2012-art/ERRORPort/refs/heads/main/covers/my-second-game.jpg"
+    }
+    {
+      "name": "My 5 Game",
+      "slug": "my-5-game",
+      "version": "1.0.0",
+      "description": "This is my 5 game.",
+      "download": "https://example.com/game.zip",
+      "featured": false,
+      "cover": "https://raw.githubusercontent.com/coltonmurdock2012-art/ERRORPort/refs/heads/main/covers/my-second-game.jpg"
+    }
+    {
+      "name": "My 6 Game",
+      "slug": "my-6-game",
+      "version": "1.0.0",
+      "description": "This is my 6 game.",
+      "download": "https://example.com/game.zip",
+      "featured": false,
+      "cover": "https://raw.githubusercontent.com/coltonmurdock2012-art/ERRORPort/refs/heads/main/covers/my-second-game.jpg"
+    }
   ]
 }
